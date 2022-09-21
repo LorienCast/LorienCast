@@ -10,7 +10,7 @@ Main Goal: become a 🌟 Back-End Developer 🌟
 
 <div align="center"
   <a href="https://github.com/LorienCast">
-  <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=LorienCast&show_icons=true&title_color=0ab86b&icon_color=0ab86b&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=MarcosDomingos&show_icons=true&title_color=0ab86b&icon_color=0ab86b&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img  width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorienCast&title_color=0ab86b&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
