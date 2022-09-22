@@ -8,6 +8,8 @@ Main Goal: become a 🌟 Back-End Developer 🌟
 
 👔 Working as an intern at one of the ⭐ biggest industrial pneumatics manufacturers companies ⭐ in the 🌍
 
+🧒🏻Pronouns: He/Him
+
 <div align="center"
   <a href="https://github.com/LorienCast">
   <img  width="42%" src="https://github-readme-stats.vercel.app/api?username=LorienCast&show_icons=true&title_color=0ab86b&icon_color=0ab86b&bg_color=000000&border_radius&theme=dark&include_all_commits=true&count_private=true"/>
