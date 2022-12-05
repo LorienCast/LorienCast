@@ -2,7 +2,7 @@
 
 📖 I am majoring in Systems Analysis and Development at Universidade Cruzeiro do Sul
 
-Currently learning ☕ Java, 🐍 Python and ![image](https://user-images.githubusercontent.com/105900436/205524654-6d3a2905-a199-450c-878c-234ce1b63d1f.png)
+Currently learning ☕ Java, 🐍 Python and ![image](https://user-images.githubusercontent.com/105900436/205524734-89e694bc-b47c-4133-990c-c1c685a64610.png)
 JavaScript
 
 Main Goal: become a 🌟 FullStack Developer 🌟
