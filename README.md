@@ -19,6 +19,7 @@ Main Goal: become a 🌟 FullStack Developer 🌟
   <img align="center" alt="LoCa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LoCa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LoCa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="LoCa-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="right" alt="Me-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/bd7f650d369ecaef5b31e4edb5ba1655.gif">
 </div>
 
